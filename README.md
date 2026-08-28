@@ -1,16 +1,43 @@
-## Hi there 👋
+# Dalton JS Crawford
 
-<!--
-**crawfordd11/crawfordd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Full-Stack Developer | AI & Data Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate from Wentworth Institute of Technology
+interested in building full-stack applications, AI-powered systems,
+and data-driven software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies
+
+**Languages**
+Python · TypeScript · JavaScript · Java · C++ · C · R · SQL
+
+**Frameworks & Tools**
+Angular · React · Node.js · FastAPI · Tailwind CSS · MongoDB · Git · Docker
+
+**Interests**
+AI/ML · Full-Stack Development · Data Engineering · Systems Design
+
+## 🚀 Featured Projects
+
+### 🎵 AI Music Generator
+AI-powered music generation application using ...
+[View Project](...)
+
+### 📈 Trend Better
+Social prediction-market platform integrating ...
+[View Project](...)
+
+### 📊 Minimum Wage Study
+Statistical analysis of U.S. minimum wage and unemployment data.
+[View Project](...)
+
+## 🎓 Education
+
+B.S. Computer Science
+Wentworth Institute of Technology
+Magna Cum Laude
+
+## 🎹 Outside of Technology
+
+I've taught piano to more than 30 students and enjoy music production,
+game development, and strategy games.
