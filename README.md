@@ -21,15 +21,15 @@ AI/ML · Full-Stack Development · Data Engineering · Systems Design
 
 ### 🎵 AI Music Generator
 AI-powered music generation application using ...
-[View Project](...)
+[View Project](https://github.com/master-music-machine/master-music-machine)
 
 ### 📈 Trend Better
 Social prediction-market platform integrating ...
-[View Project](...)
+[View Project](https://github.com/nolansharry/Trend-Better)
 
 ### 📊 Minimum Wage Study
 Statistical analysis of U.S. minimum wage and unemployment data.
-[View Project](...)
+[View Project](https://github.com/crawfordd11/minimumWageSupplyVsDemand)
 
 ## 🎓 Education
 
@@ -39,5 +39,5 @@ Magna Cum Laude
 
 ## 🎹 Outside of Technology
 
-I've taught piano to more than 30 students and enjoy music production,
+I've taught piano to more than 20 students and enjoy music production,
 game development, and strategy games.
